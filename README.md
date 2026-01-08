@@ -4,7 +4,6 @@
 This project evaluates the performance of a marketing test campaign using a formal control vs test experimental design. The analysis focuses on measuring lift across funnel metrics, assessing statistical reliability, and providing evidence-based support for informed decision-making.
 
 ## Objectives
-Did the campaign differences produce a real, meaningful improvement, enough to justify rolling it out?
 - Determine whether the test campaign improves conversion outcomes
 - Assess cost efficiency impacts
 - Quantify uncertainty and effect size
