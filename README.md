@@ -19,7 +19,6 @@ This project evaluates the performance of a marketing test campaign using a form
 
 | Visualization & dashboard -> Excel |
 
-
 ### 📏 Metrics Analyzed
 - Click-through rate (CTR)
 - Purchase rate per click
@@ -42,8 +41,7 @@ Due to moderate right-skewness and small sample sizes, both parametric and nonpa
 The test campaign delivered a significant lift in engagement and end‑to‑end conversion, with no statistically reliable increase in cost per purchase. These results support rolling out the test variant, with continued monitoring of downstream efficiency metrics to ensure conversion quality remains stable.
 
 <img width="564" height="491" alt="2026-01-08 (1)" src="https://github.com/user-attachments/assets/0ae3a7f3-dc3c-4aa4-8a8e-cf696bfe27f2" />
-<img width="504" height="601" alt="2026-01-08 (2)" src="https://github.com/user-attachments/assets/088003a8-dea0-40ae-950c-844219a6d210" />
+<img width="521" height="618" alt="2026-01-08 (3)" src="https://github.com/user-attachments/assets/eddf4501-2b41-4019-84af-bf5dca1ba13e" />
 
 ### 📌 Dataset
-
 Source: A/B Testing DataSet -> https://www.kaggle.com/datasets/amirmotefaker/ab-testing-dataset
